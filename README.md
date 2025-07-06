@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="image.png" alt="ResuMate Logo" width="120" />
+</p>
+
 # 🧠 ResuMate – AI-Powered Resume Analyzer
 
-**Personal Project | Domain: ERP & HR Automation**  
 
+---
 
 ## 📘 Overview
 
@@ -24,12 +28,17 @@
 - 🧠 **Skill-Based Resume Search**  
   Filters and ranks candidates by input skills to help recruiters focus only on relevant profiles.
 
+## 📷 Demo
+
+![ResuMate Demo](Screenshot%202025-07-06%20163124.png)
+
 ## 🎯 Why I Built It
 
 Recruiters often spend hours screening resumes. I wanted to build a tool that not only automates this but also ensures smarter, faster, and more consistent hiring decisions using AI. **ResuMate** addresses this challenge by acting as a personal assistant for recruiters.
 
 
-## 🛠 Future Enhancements
+
+## 🔮 Future Enhancements
 
 - AI-powered interview system with automated Q&A evaluation  
 - Multilingual resume support  
@@ -38,4 +47,3 @@ Recruiters often spend hours screening resumes. I wanted to build a tool that no
 ---
 
 > 👨‍💻 Developed with passion by **Suryansh Pratap Singh**
-
